@@ -52,14 +52,22 @@ Sistema_Biblioteca_com_POO/ <br>
 
 -->    **SEGUE ABAIXO O EXEMPLO DE USO (ENTRADA -> SAÍDA) E TAMBÉM PRINTS DO FUNCIONAMENTO** <br>
 |    (**OBS**: Meu notebook é um ASUS com recursos bem limitados. Por isso, o sistema roda de forma mais lenta, então para não deixar exemplo visual do sistema, trouxe aqui uma sequencia dele sendoe executado)
-<br>
-<br>
-![Menu Principal](...)
-* Menu principal com todas as opções do sistema *
 
 <br>
+<br>
 
-![
+![Menu principal](screenshots/01_menu.JPEG) <br>
+![Cadastro de usuário](screenshots/02_cadastro_usuario.JPEG) <br>
+![Cadastro de livro](screenshots/03_cadastro_livro.JPEG) <br>
+![Comprovante de empréstimo](screenshots/04_comprovante_emprestimo.JPEG) <br>
+![Simulação de tempo](screenshots/05_simulacao_tempo.JPEG) <br>
+![Devolução com multa](screenshots/06_devolucao_multa.JPEG) <br>
+![Barra de progresso](screenshots/07_barra_progresso.JPEG) <br>
+![Pagamento de multas](screenshots/08_pagar_multa.JPEG) <br>
+![Gráfico de multas](screenshots/09_grafico_multas.JPEG) <br>
+![Exportação Excel](screenshots/10_excel.JPEG) <br>
+![Relatório PDF - Estatísticas](screenshots/11_pdf_estatisticas.JPEG) <br>
+![Relatório PDF - Multas](screenshots/12_pdf_multas.JPEG) <br>
 
 <br>
 <br>
