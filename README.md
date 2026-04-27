@@ -56,18 +56,18 @@ Sistema_Biblioteca_com_POO/ <br>
 <br>
 <br>
 
-![Menu principal](screenshots/01_menu.JPEG) <br>
-![Cadastro de usuário](screenshots/02_cadastro_usuario.JPEG) <br>
-![Cadastro de livro](screenshots/03_cadastro_livro.JPEG) <br>
-![Comprovante de empréstimo](screenshots/04_comprovante_emprestimo.JPEG) <br>
+![Menu principal](screenshots/menu_principal.JPEG) <br>
+![Cadastro de usuário](screenshots/cadastrando_usuario.JPEG) <br>
+![Cadastro de livro](screenshots/cadastrando_livro.JPEG) <br>
+![Comprovante de empréstimo](screenshots/comprovante_de_emprestimo.JPEG) <br>
 ![Simulação de tempo](screenshots/05_simulacao_tempo.JPEG) <br>
-![Devolução com multa](screenshots/06_devolucao_multa.JPEG) <br>
-![Barra de progresso](screenshots/07_barra_progresso.JPEG) <br>
-![Pagamento de multas](screenshots/08_pagar_multa.JPEG) <br>
-![Gráfico de multas](screenshots/09_grafico_multas.JPEG) <br>
-![Exportação Excel](screenshots/10_excel.JPEG) <br>
-![Relatório PDF - Estatísticas](screenshots/11_pdf_estatisticas.JPEG) <br>
-![Relatório PDF - Multas](screenshots/12_pdf_multas.JPEG) <br>
+![Devolução com multa](screenshots/devolucao_com_multa.JPEG) <br>
+![Barra de progresso](screenshots/barra_de_progresso.JPEG) <br>
+![Pagamento de multas](screenshots/funcao_pagar_multas.JPEG) <br>
+![Gráfico de multas](screenshots/gráfico_multas.JPEG) <br>
+![Exportação Excel](screenshots/excel.JPEG) <br>
+![Relatório PDF - Estatísticas](screenshots/pdf_estatisticas.JPEG) <br>
+![Relatório PDF - Multas](screenshots/pdf_multas.JPEG) <br>
 
 <br>
 <br>
